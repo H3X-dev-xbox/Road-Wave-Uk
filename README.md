@@ -1,72 +1,90 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    ROAD WAVE UK — README                    -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                        ROAD WAVE UK — README                            -->
+<!--                    github.com/H3X-dev-xbox/roadwaveuk                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- Animated Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A3FF,50:0D0D0F,100:E63946&height=220&section=header&text=ROAD%20WAVE%20UK&fontSize=70&fontColor=F5F7FA&fontAlignY=38&desc=Ride%20together.%20Talk%20together.&descAlignY=58&descSize=20&animation=fadeIn&stroke=00A3FF&strokeWidth=1" width="100%"/>
+<!-- ░░░ LAYER 1 — Animated Aurora Header ░░░ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,30&height=260&section=header&text=ROAD%20WAVE%20UK&fontSize=80&fontColor=F5F7FA&fontAlignY=32&desc=RIDE%20TOGETHER.%20TALK%20TOGETHER.&descAlignY=55&descSize=22&animation=twinkling&stroke=00A3FF&strokeWidth=2" width="100%"/>
 
-<!-- Animated Typing Tagline -->
+<!-- ░░░ LAYER 2 — Animated Neon Signature ░░░ -->
 <a href="https://github.com/H3X-dev-xbox/roadwaveuk">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2500&pause=800&color=00A3FF&center=true&vCenter=true&multiline=false&width=700&height=50&lines=The+UK's+car+crew+network;Plan+routes.+Invite+your+crew.;Talk+live+with+walkie-talkie;Built+as+a+Progressive+Web+App;Founding+members+wanted" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=34&duration=3000&pause=500&color=00A3FF&center=true&vCenter=true&width=900&height=80&lines=THE+UK'S+CAR+CREW+NETWORK;PLAN+%E2%80%A2+INVITE+%E2%80%A2+TALK;BUILT+AS+A+PWA;FREE+FOREVER" alt="Neon Signature" />
 </a>
 
 <br/>
 
-<!-- Animated Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00A3FF,50:E63946,100:00A3FF&height=3&width=100%"/>
+<!-- ░░░ LAYER 3 — Animated Pulse Wave ░░░ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,2,30&height=4&width=100%"/>
 
 <br/>
 
-<!-- Status Badges -->
+<!-- ░░░ LAYER 4 — Status Badges ░░░ -->
 <img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-00A3FF?style=for-the-badge&labelColor=0D0D0F" />
 <img src="https://img.shields.io/badge/PLATFORM-PWA-E63946?style=for-the-badge&labelColor=0D0D0F" />
 <img src="https://img.shields.io/badge/MADE%20IN-UK-C7CCD1?style=for-the-badge&labelColor=0D0D0F" />
 <img src="https://img.shields.io/badge/LICENSE-ALL%20RIGHTS%20RESERVED-E63946?style=for-the-badge&labelColor=0D0D0F" />
+<img src="https://img.shields.io/badge/FREE-FOREVER-00A3FF?style=for-the-badge&labelColor=0D0D0F" />
 
 <br/><br/>
 
-<!-- Live Stats -->
+<!-- ░░░ LAYER 5 — Live Repo Metrics ░░░ -->
 <img src="https://komarev.com/ghpvc/?username=H3X-dev-xbox&style=for-the-badge&color=00A3FF&labelColor=0D0D0F&label=VISITORS" />
 <img src="https://img.shields.io/github/stars/H3X-dev-xbox/roadwaveuk?style=for-the-badge&color=E63946&labelColor=0D0D0F&label=STARS" />
 <img src="https://img.shields.io/github/forks/H3X-dev-xbox/roadwaveuk?style=for-the-badge&color=C7CCD1&labelColor=0D0D0F&label=FORKS" />
+<img src="https://img.shields.io/github/last-commit/H3X-dev-xbox/roadwaveuk?style=for-the-badge&color=00A3FF&labelColor=0D0D0F&label=LAST%20COMMIT" />
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00A3FF,100:E63946&height=3&width=100%"/>
+<!-- ═══════════════════════════ ANIMATED DIVIDER ═══════════════════════════ -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,2,30&height=3&width=100%"/>
+</div>
+
+<br/>
+
+<!-- ═════════════════════════════ ABOUT SECTION ═════════════════════════════ -->
 
 <div align="center">
 
-## About
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=4000&pause=99999&color=00A3FF&center=true&vCenter=true&width=500&height=60&lines=%5B+ABOUT+%5D" alt="About" />
 
 </div>
 
-Road Wave UK is a Progressive Web App built for the UK car scene. It brings together **route planning**, **crew management**, and **live push-to-talk voice** into one place, so convoys stay connected from the first meet point to the last turn.
+Road Wave UK is a **Progressive Web App** built for the UK car scene. It brings together **route planning**, **crew management**, and **live push-to-talk voice** into one place, so convoys stay connected from the first meet point to the last turn.
 
 The name comes from two ideas. **Wave** as in radio signal, the way a walkie-talkie carries your voice. **Wave** as in the nod, flash, or hand gesture UK car enthusiasts give each other on the road.
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0F,50:00A3FF,100:0D0D0F&height=2&width=100%"/>
-
-</div>
+Road Wave UK is built to be **free forever**. No subscriptions. No paywalls. No locked features. The only money the team receives is from donations, and every penny goes back into keeping the servers running.
 
 <div align="center">
 
-## Core Features
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,2,30&height=2&width=60%"/>
 
 </div>
+
+<br/>
+
+<!-- ═══════════════════════════ CORE FEATURES ═══════════════════════════ -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=4000&pause=99999&color=E63946&center=true&vCenter=true&width=600&height=60&lines=%5B+CORE+FEATURES+%5D" alt="Core Features" />
+
+</div>
+
+<br/>
 
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
 
-<img src="https://img.shields.io/badge/01-PLAN%20ROUTES-00A3FF?style=for-the-badge&labelColor=0D0D0F" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=1&height=60&text=01%20%E2%80%94%20PLAN%20ROUTES&fontSize=18&fontColor=F5F7FA&fontAlign=50&fontAlignY=55" width="100%"/>
 
-<br/><br/>
+<br/>
 
 **Map out meets, cruises, and convoys.**
 
@@ -76,9 +94,9 @@ Share with your crew in one tap.
 </td>
 <td width="50%" valign="top" align="center">
 
-<img src="https://img.shields.io/badge/02-BUILD%20CREWS-E63946?style=for-the-badge&labelColor=0D0D0F" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2&height=60&text=02%20%E2%80%94%20BUILD%20CREWS&fontSize=18&fontColor=F5F7FA&fontAlign=50&fontAlignY=55" width="100%"/>
 
-<br/><br/>
+<br/>
 
 **Create your squad and invite members.**
 
@@ -90,9 +108,9 @@ real-time updates and event alerts.
 <tr>
 <td width="50%" valign="top" align="center">
 
-<img src="https://img.shields.io/badge/03-WALKIE--TALKIE-00A3FF?style=for-the-badge&labelColor=0D0D0F" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=1&height=60&text=03%20%E2%80%94%20WALKIE-TALKIE&fontSize=18&fontColor=F5F7FA&fontAlign=50&fontAlignY=55" width="100%"/>
 
-<br/><br/>
+<br/>
 
 **Live push-to-talk with your convoy.**
 
@@ -102,9 +120,9 @@ Hold the button, speak, release.
 </td>
 <td width="50%" valign="top" align="center">
 
-<img src="https://img.shields.io/badge/04-EVENT%20ALERTS-E63946?style=for-the-badge&labelColor=0D0D0F" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2&height=60&text=04%20%E2%80%94%20EVENT%20ALERTS&fontSize=18&fontColor=F5F7FA&fontAlign=50&fontAlignY=55" width="100%"/>
 
-<br/><br/>
+<br/>
 
 **Route changes, meet times, and updates.**
 
@@ -115,104 +133,149 @@ gets left behind.
 </tr>
 </table>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0F,50:00A3FF,100:0D0D0F&height=2&width=100%"/>
-
-</div>
-
-<div align="center">
-
-## How It Works
-
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=2000&pause=600&color=00A3FF&center=true&vCenter=true&width=600&lines=Step+1+%E2%80%94+Plan+the+route;Step+2+%E2%80%94+Invite+the+crew;Step+3+%E2%80%94+Hit+the+button+and+talk" alt="How it works" />
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,2,30&height=3&width=100%"/>
 </div>
 
 <br/>
 
+<!-- ═══════════════════════════ HOW IT WORKS ═══════════════════════════ -->
+
 <div align="center">
 
-| Step | Action | Description |
-|:----:|:------:|-------------|
-| **01** | **Plan** | Set the route and the meet point. |
-| **02** | **Invite** | Send it to your crew. |
-| **03** | **Talk** | Hold the button and go live. |
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=4000&pause=99999&color=00A3FF&center=true&vCenter=true&width=600&height=60&lines=%5B+HOW+IT+WORKS+%5D" alt="How It Works" />
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=2000&pause=500&color=00A3FF&center=true&vCenter=true&width=700&lines=STEP+1+%E2%80%94+PLAN+THE+ROUTE;STEP+2+%E2%80%94+INVITE+THE+CREW;STEP+3+%E2%80%94+HIT+THE+BUTTON+AND+TALK" alt="Steps" />
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 01
+**PLAN**
+
+Set the route and the meet point.
+
+</td>
+<td align="center" width="33%">
+
+### 02
+**INVITE**
+
+Send it to your crew.
+
+</td>
+<td align="center" width="33%">
+
+### 03
+**TALK**
+
+Hold the button and go live.
+
+</td>
+</tr>
+</table>
 
 </div>
 
+<br/>
+
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0F,50:00A3FF,100:0D0D0F&height=2&width=100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,2,30&height=3&width=100%"/>
 </div>
 
+<br/>
+
+<!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
+
 <div align="center">
 
-## Tech Stack
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=4000&pause=99999&color=E63946&center=true&vCenter=true&width=600&height=60&lines=%5B+TECH+STACK+%5D" alt="Tech Stack" />
 
-<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D0D0F" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D0D0F" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D0D0F" />
-<br/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=0D0D0F" />
+<img src="https://skillicons.dev/icons?i=html,css,js,supabase,github,git,vscode,figma&theme=dark&perline=8" />
+
+<br/><br/>
+
 <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white&labelColor=0D0D0F" />
 <img src="https://img.shields.io/badge/Agora-099DFD?style=for-the-badge&logo=agora&logoColor=white&labelColor=0D0D0F" />
-<br/>
-<img src="https://img.shields.io/badge/GitHub%20Pages-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D0F" />
 <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white&labelColor=0D0D0F" />
+<img src="https://img.shields.io/badge/GitHub%20Pages-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D0F" />
 
 </div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,2,30&height=3&width=100%"/>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════ REPO STRUCTURE ═══════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0F,50:00A3FF,100:0D0D0F&height=2&width=100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=4000&pause=99999&color=00A3FF&center=true&vCenter=true&width=700&height=60&lines=%5B+REPOSITORY+STRUCTURE+%5D" alt="Structure" />
 
 </div>
 
-<div align="center">
-
-## Repository Structure
-
-</div>
+<br/>
 
 ```text
 roadwaveuk/
-├── docs/                       GitHub Pages serves from here
-│   ├── index.html              Landing page
-│   ├── app.html                Main app
-│   ├── login.html              Log in screen
-│   ├── signup.html             Create account screen
-│   ├── manifest.webmanifest    PWA install config
-│   ├── service-worker.js       Offline caching
-│   ├── css/                    Stylesheets
-│   ├── js/                     App logic
-│   ├── icons/                  PWA and app icons
-│   ├── assets/                 Logo, splash, images
-│   └── legal/                  Privacy, terms, cookies
+│
+├── docs/                       ▸  GitHub Pages serves from here
+│   │
+│   ├── index.html              ▸  Landing page
+│   ├── app.html                ▸  Main app
+│   ├── login.html              ▸  Log in screen
+│   ├── signup.html             ▸  Create account screen
+│   │
+│   ├── manifest.webmanifest    ▸  PWA install config
+│   ├── service-worker.js       ▸  Offline caching
+│   ├── robots.txt              ▸  SEO
+│   ├── sitemap.xml             ▸  SEO
+│   │
+│   ├── css/                    ▸  Stylesheets
+│   ├── js/                     ▸  App logic
+│   ├── icons/                  ▸  PWA and app icons
+│   ├── assets/                 ▸  Logo, splash, images
+│   └── legal/                  ▸  Privacy, terms, cookies
+│
 ├── README.md
+├── LICENSE
 └── .gitignore
 ```
 
+<br/>
+
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0F,50:00A3FF,100:0D0D0F&height=2&width=100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,2,30&height=3&width=100%"/>
 </div>
-
-<div align="center">
-
-## Roadmap
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=16&duration=1800&pause=500&color=E63946&center=true&vCenter=true&width=700&lines=Phase+1+%E2%80%94+Landing+page+and+PWA+shell;Phase+2+%E2%80%94+User+accounts+and+crews;Phase+3+%E2%80%94+Route+planner+with+maps;Phase+4+%E2%80%94+Walkie-talkie+voice;Phase+5+%E2%80%94+Payments+and+founder+beta;Phase+6+%E2%80%94+Public+launch+with+freemium;Phase+7+%E2%80%94+Native+app+wrapping" alt="Roadmap" />
+<!-- ═══════════════════════════ ROADMAP ═══════════════════════════ -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=4000&pause=99999&color=E63946&center=true&vCenter=true&width=500&height=60&lines=%5B+ROADMAP+%5D" alt="Roadmap" />
 
 <br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=16&duration=1800&pause=400&color=E63946&center=true&vCenter=true&width=700&lines=PHASE+1+%E2%80%94+LANDING+PAGE+AND+PWA+SHELL;PHASE+2+%E2%80%94+USER+ACCOUNTS+AND+CREWS;PHASE+3+%E2%80%94+ROUTE+PLANNER+WITH+MAPS;PHASE+4+%E2%80%94+WALKIE-TALKIE+VOICE;PHASE+5+%E2%80%94+DONATIONS+AND+FOUNDER+BETA;PHASE+6+%E2%80%94+PUBLIC+LAUNCH+FREE+FOREVER;PHASE+7+%E2%80%94+NATIVE+APP+WRAPPING" alt="Roadmap" />
+
+</div>
+
+<br/>
 
 | Phase | Focus | Status |
 |:-----:|:------|:------:|
@@ -220,25 +283,27 @@ roadwaveuk/
 | **02** | User accounts and crews | ![Planned](https://img.shields.io/badge/-PLANNED-C7CCD1?style=flat-square&labelColor=0D0D0F) |
 | **03** | Route planner with maps | ![Planned](https://img.shields.io/badge/-PLANNED-C7CCD1?style=flat-square&labelColor=0D0D0F) |
 | **04** | Walkie-talkie voice | ![Planned](https://img.shields.io/badge/-PLANNED-C7CCD1?style=flat-square&labelColor=0D0D0F) |
-| **05** | Payments and founder beta | ![Planned](https://img.shields.io/badge/-PLANNED-C7CCD1?style=flat-square&labelColor=0D0D0F) |
-| **06** | Public launch with freemium | ![Planned](https://img.shields.io/badge/-PLANNED-C7CCD1?style=flat-square&labelColor=0D0D0F) |
+| **05** | Donations and founder beta | ![Planned](https://img.shields.io/badge/-PLANNED-C7CCD1?style=flat-square&labelColor=0D0D0F) |
+| **06** | Public launch, free forever | ![Planned](https://img.shields.io/badge/-PLANNED-C7CCD1?style=flat-square&labelColor=0D0D0F) |
 | **07** | Native app wrapping | ![Planned](https://img.shields.io/badge/-PLANNED-C7CCD1?style=flat-square&labelColor=0D0D0F) |
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0F,50:00A3FF,100:0D0D0F&height=2&width=100%"/>
-
-</div>
-
-<div align="center">
-
-## Pricing Model
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2400&pause=900&color=00A3FF&center=true&vCenter=true&width=650&lines=Beta+%E2%80%94+Paid+founder+access;Launch+%E2%80%94+Free+with+Pro+tier;Founders+keep+Pro+for+life" alt="Pricing" />
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,2,30&height=3&width=100%"/>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════ HOW IT'S FUNDED ═══════════════════════════ -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=4000&pause=99999&color=00A3FF&center=true&vCenter=true&width=700&height=60&lines=%5B+HOW+IT'S+FUNDED+%5D" alt="Funding" />
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2400&pause=800&color=00A3FF&center=true&vCenter=true&width=750&lines=BETA+%E2%80%94+PAID+FOUNDER+ACCESS;LAUNCH+%E2%80%94+FREE+FOREVER;SUPPORTED+BY+DONATIONS" alt="Funding Cycle" />
 
 </div>
 
@@ -248,57 +313,81 @@ roadwaveuk/
 <tr>
 <td width="33%" align="center" valign="top">
 
-### BETA
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=1&height=50&text=BETA&fontSize=20&fontColor=F5F7FA&fontAlign=50&fontAlignY=60" width="100%"/>
 
-<img src="https://img.shields.io/badge/-PAID-00A3FF?style=for-the-badge&labelColor=0D0D0F" />
+<br/>
+
+<img src="https://img.shields.io/badge/-PAID%20ENTRY-00A3FF?style=for-the-badge&labelColor=0D0D0F" />
 
 <br/><br/>
 
-Early access is paid.
+Founder access is a **one-time payment**.
 
-Founder pricing is a **one-time fee** that funds the voice servers and keeps Road Wave UK independent.
+This covers the cost of running voice servers during testing, so we can find bugs, fix them, and ship something solid.
+
+**Not profit. Just runway.**
 
 </td>
 <td width="33%" align="center" valign="top">
 
-### LAUNCH
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=2&height=50&text=LAUNCH&fontSize=20&fontColor=F5F7FA&fontAlign=50&fontAlignY=60" width="100%"/>
 
-<img src="https://img.shields.io/badge/-FREEMIUM-E63946?style=for-the-badge&labelColor=0D0D0F" />
+<br/>
+
+<img src="https://img.shields.io/badge/-FREE%20FOREVER-E63946?style=for-the-badge&labelColor=0D0D0F" />
 
 <br/><br/>
 
-Free to use with core features.
+Every feature. Every user. **No paywalls. No subscriptions. No Pro tier.**
 
-**Pro tier** unlocks unlimited crews, unlimited walkie-talkie time, and priority voice quality.
+Road Wave UK is free from the day it launches, and stays that way.
 
 </td>
 <td width="33%" align="center" valign="top">
 
-### FOUNDERS
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=3&height=50&text=SUPPORT&fontSize=20&fontColor=F5F7FA&fontAlign=50&fontAlignY=60" width="100%"/>
 
-<img src="https://img.shields.io/badge/-FOR%20LIFE-C7CCD1?style=for-the-badge&labelColor=0D0D0F" />
+<br/>
+
+<img src="https://img.shields.io/badge/-DONATIONS-C7CCD1?style=for-the-badge&labelColor=0D0D0F" />
 
 <br/><br/>
 
-Everyone who joins during beta keeps **Pro access for life** when the app goes freemium.
+Want to keep it alive? **Donations are the only income** the Road Wave UK team receives.
+
+Every penny goes back into servers, hosting, and new features.
 
 </td>
 </tr>
 </table>
 
+<br/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0F,50:00A3FF,100:0D0D0F&height=2&width=100%"/>
+**The Road Wave UK promise:**
+
+> Free to use. No lockouts. No surprises. If you love it, chuck us a few quid to keep the lights on. If you don't, use it anyway.
 
 </div>
 
-<div align="center">
+<br/>
 
-## Join the Beta
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,2,30&height=3&width=100%"/>
+</div>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2000&pause=700&color=F5F7FA&center=true&vCenter=true&width=600&lines=Founding+members+wanted;Limited+spots+for+the+first+cohort;Ride+together.+Talk+together." alt="Join" />
+<!-- ═══════════════════════════ JOIN BETA ═══════════════════════════ -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=4000&pause=99999&color=E63946&center=true&vCenter=true&width=600&height=60&lines=%5B+JOIN+THE+BETA+%5D" alt="Join Beta" />
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2000&pause=700&color=F5F7FA&center=true&vCenter=true&width=650&lines=FOUNDING+MEMBERS+WANTED;HELP+SHAPE+THE+UK'S+CAR+CREW+APP;LIMITED+SPOTS+FOR+THE+FIRST+COHORT;FREE+FOREVER+ONCE+WE+LAUNCH" alt="Join" />
 
 <br/><br/>
 
@@ -306,19 +395,27 @@ Everyone who joins during beta keeps **Pro access for life** when the app goes f
   <img src="https://img.shields.io/badge/JOIN%20THE%20WAITLIST-00A3FF?style=for-the-badge&labelColor=0D0D0F" />
 </a>
 
-</div>
+<br/><br/>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0F,50:00A3FF,100:0D0D0F&height=2&width=100%"/>
+<sub>Founder access is paid during beta. After launch, Road Wave UK is free for everyone, forever.</sub>
 
 </div>
-
-<div align="center">
-
-## Contact and Support
 
 <br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,2,30&height=3&width=100%"/>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════ CONTACT ═══════════════════════════ -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=4000&pause=99999&color=00A3FF&center=true&vCenter=true&width=700&height=60&lines=%5B+CONTACT+%26+SUPPORT+%5D" alt="Contact" />
+
+<br/><br/>
 
 **Need help? Got a question? Want to report a bug?**
 
@@ -333,7 +430,7 @@ Reach out any time. We read every message.
 <br/><br/>
 
 <a href="https://github.com/H3X-dev-xbox">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D0F" />
+  <img src="https://img.shields.io/badge/GitHub-Follow%20H3X--dev--xbox-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D0F" />
 </a>
 <a href="mailto:roadwaveuk@proton.me">
   <img src="https://img.shields.io/badge/Support-Contact%20Us-E63946?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=0D0D0F" />
@@ -343,14 +440,17 @@ Reach out any time. We read every message.
 
 <br/>
 
-<!-- Animated Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E63946,50:0D0D0F,100:00A3FF&height=180&section=footer&text=Ride%20together.%20Talk%20together.&fontSize=26&fontColor=F5F7FA&fontAlignY=75&animation=fadeIn" width="100%"/>
+<!-- ═══════════════════════════ ANIMATED FOOTER ═══════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,2,1&height=200&section=footer&text=FREE%20FOREVER.%20FUNDED%20BY%20YOU.&fontSize=28&fontColor=F5F7FA&fontAlignY=70&animation=twinkling&stroke=00A3FF&strokeWidth=1" width="100%"/>
 
 <div align="center">
 
 <br/>
 
-**ROAD WAVE UK**
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&duration=3000&pause=800&color=00A3FF&center=true&vCenter=true&width=700&lines=ROAD+WAVE+UK;FREE+FOREVER;SUPPORTED+BY+DONATIONS;%C2%A9+2026+H3X-dev-xbox" alt="Footer Signature" />
+
+<br/><br/>
 
 <sub>Copyright (c) 2026 H3X-dev-xbox. All Rights Reserved.</sub>
 
@@ -360,6 +460,8 @@ Reach out any time. We read every message.
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=12&duration=3000&pause=1000&color=C7CCD1&center=true&vCenter=true&width=500&lines=Made+in+the+UK;Built+for+the+car+scene;Powered+by+the+community" alt="Footer" />
+<a href="mailto:roadwaveuk@proton.me">
+  <img src="https://img.shields.io/badge/DONATE%20%2F%20SUPPORT-Get%20in%20touch-00A3FF?style=for-the-badge&labelColor=0D0D0F" />
+</a>
 
 </div>
